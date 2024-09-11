@@ -19,7 +19,7 @@ const holidays = [
 ];
 
 // holidayを順番に出力する
-for (let i = 0; i <= 16; i++) console.log(holidays[i]);
+for (let i = 0; i <= 15; i++) console.log(holidays[i]);
 
 // 変数numに0～15までのランダムな整数を代入する
 let i = 0;
